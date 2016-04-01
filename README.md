@@ -65,6 +65,14 @@ python MyJSRat.py -i 192.168.1.101 -p 8080 -c "whoami"
 * http://192.168.1.101:8080/wtf 访问此链接获取客户端执行代码
 * http://192.168.1.101:8080/hook 浏览器hook链接，适用于某些版本的IE
 
+## 0x02 实际利用
+
+CHM + JSRAT = Getshell
+
+![Alt text](./getshell.gif)
+
+Detail : [chm_backdoor](http://evi1cg.me/archives/chm_backdoor.html)
+
 
 
 
